@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RulesActivity"
+    android:orientation="vertical"
+    android:background="#1E6273"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:textColor="#A50C0C"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/rules"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Complete 5 questions\n 2. Do not cheat\n 3. Do not use the internet"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        ></TextView>
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back"/>
+
+</LinearLayout>

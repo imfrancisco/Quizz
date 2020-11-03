@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="Login">LOGIN</string>
+    <string name="Register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="Email">Email</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="Name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="rules">RULES!</string>
+    <string name="back">BACK</string>
+    <string name="start">START</string>
+    <string name="about">ABOUT</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="it_s_time_for_a_quiz">It\'s time for a Quiz!</string>
+    <string name="Score">Score: 0</string>
+    <string name="currentNumOfQuestion">Question: 1/x</string>
+    <string name="exit">EXIT</string>
+    <string name="confirm">Confirm</string>
+</resources>
